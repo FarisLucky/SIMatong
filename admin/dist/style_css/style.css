@@ -1,0 +1,58 @@
+.ubahProduk{
+    padding-bottom: 20px;
+}
+.anggota .car{
+    padding-top: 20px;
+}
+.panel-default{
+    background-color: #f8f8f8;
+}
+span{
+    font-size: 17px;
+    color: #34495e;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+hr{
+    /* background-color: #7f8c8d; */
+    margin: 0;
+    border-color: #e7e7e7;
+}
+.panel-header{
+    padding: 15px;
+}
+li{
+    list-style: none;
+}
+.produk_field{
+    padding: 15px 0;
+}
+.detail_admin span.judul{
+    font-size: 13px;
+    margin-left: 12px;
+}
+.alert{
+    margin: 10px 0;
+}
+.text-center{
+    text-align: center;
+}
+.p{
+    padding: 10px;
+}
+.link{
+    color: #e74c3c;
+    cursor: pointer;
+}
+.link:hover{
+    color: #c0392b;
+}
+.pt{
+    padding-top: 5px;
+}
+.pb{
+    padding-bottom: 10px;
+}
+.text-right{
+    text-align: right;
+}
