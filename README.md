@@ -1,7 +1,9 @@
 ## Sistem Informasi Patungan Daging
-sistem ini berdasarkan studi kasus pematungan daging pada event hari raya idul fitri dan adha <br>
-digunakan untuk mengelola anggota pematungan daging khususnya event Hari Raya Idul Fitri dan Adha <br>
 
+Sistem ini berdasarkan studi kasus pematungan daging pada event hari raya idul fitri dan adha <br>
+Sistem ini digunakan untuk mengelola anggota pematungan daging khususnya event Hari Raya Idul Fitri dan Adha <br>
+
+### About
 Projek ini merupakan projek suatu Mata Kuliah berupa Workshop semester 3 pada saat saya kuliah <br> 
 Project ini menggunakan pengembangan perangkat lunak __WaterFall__ <br>
 Pada saat itu, saya pertama kali mengenal dunia WEB programming yang mana sebelumnya hanya belajar Desktop Menggunakan Java <br>
